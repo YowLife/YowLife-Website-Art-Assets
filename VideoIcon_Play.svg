@@ -1,0 +1,38 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="85px" height="85px" viewBox="0 0 85 85">
+<defs/>
+
+<g id="Layer_2"/>
+
+<g id="Layer_1"/>
+
+<g id="Layer_5"/>
+
+<g id="Layer_4">
+<g id="Layer_1" transform="matrix( 1, 0, 0, 1, 42.5,42.55) ">
+<g>
+<g>
+<path stroke="#FFE465" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 39.5 0
+Q 39.5 16.4 28 28 16.4 39.55 0 39.55 -16.4 39.55 -27.95 28 -39.5 16.4 -39.5 0 -39.5 -16.4 -27.95 -28 -16.4 -39.55 0 -39.55 16.4 -39.55 28 -28 39.5 -16.4 39.5 0 Z"/>
+</g>
+</g>
+
+<g transform="matrix( 1.0999908447265625, 0, 0, 1.0999908447265625, 0.05,-0.05) ">
+<g>
+<g>
+<path fill="#FFE465" stroke="none" d="
+M -8.1 -17.25
+L -8.1 17.3 19.6 0.05 -8.1 -17.25 Z"/>
+</g>
+</g>
+
+<g transform="matrix( 0.909088134765625, 0, 0, 0.909088134765625, 0,0) ">
+<path stroke="#FFE465" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M -8.859925842285156 -19.024842071533204
+L 21.609820556640628 0.004999542236328126 -8.859925842285156 18.97984161376953 -8.859925842285156 -19.024842071533204 Z"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
