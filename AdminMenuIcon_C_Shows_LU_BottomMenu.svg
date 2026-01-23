@@ -1,0 +1,42 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="591px" height="70px" viewBox="0 0 591 70">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="-38.9" y1="229.09999999999997" x2="-38.9" y2="297.7" spreadMethod="pad">
+<stop  offset="0%" stop-color="#1FD6FC"/>
+
+<stop  offset="100%" stop-color="#0261E6"/>
+</linearGradient>
+</defs>
+
+<g id="Layer_2">
+<g transform="matrix( 1, 0, 0, 1.07110595703125, 334.6,-239.95) ">
+<g>
+<g>
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 255.3 246.05
+Q 255.1 237.65 248.9 231.6 242.65 225.55 233.9 225.4
+L -311.7 225.4
+Q -320.45 225.55 -326.7 231.6 -332.9 237.65 -333.1 246.05
+L -333.1 267.4
+Q -333.1 276.15 -326.7 282.3 -320.45 288.35 -311.7 288.5
+L 233.9 288.5
+Q 242.65 288.35 248.9 282.3 255.3 276.15 255.3 267.4
+L 255.3 246.05 Z"/>
+</g>
+</g>
+
+<g>
+<path stroke="#0E35A1" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 233.9 225.4
+Q 242.65 225.55 248.9 231.6 255.1 237.65 255.3 246.05
+L 255.3 267.4
+Q 255.3 276.15 248.9 282.3 242.65 288.35 233.9 288.5
+L -311.7 288.5
+Q -320.45 288.35 -326.7 282.3 -333.1 276.15 -333.1 267.4
+L -333.1 246.05
+Q -332.9 237.65 -326.7 231.6 -320.45 225.55 -311.7 225.4
+L 233.9 225.4 Z"/>
+</g>
+</g>
+</g>
+</svg>

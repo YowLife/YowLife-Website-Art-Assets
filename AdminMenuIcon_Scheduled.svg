@@ -1,0 +1,94 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="138px" height="35px" viewBox="0 0 138 35">
+<defs>
+<font horiz-adv-x="2048">
+<!--  Font Name: Arial Bold
+Vendor ID: TMC 
+© 2017 The Monotype Corporation. All Rights Reserved. 
+
+Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; see embedded license description for details.
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=TMC&Name=Arial&PSName=Arial-BoldMT&applanguage=en_US-->
+<font-face font-family="Arial_Bold" units-per-em="2048" ascent="1854" descent="434"/>
+
+<glyph unicode="S" horiz-adv-x="1366" d="
+M 74 477
+L 362 505
+Q 388 360 468 292 547 224 682 224 825 224 898 284 970 345 970 426 970 478 940 514 909 551 833 578 781 596 596 642 358 701 262 787 127 908 127 1082 127 1194 191 1291 254 1389 374 1440 493 1491 662 1491 938 1491 1078 1370 1217 1249 1224 1047
+L 928 1034
+Q 909 1147 847 1196 784 1246 659 1246 530 1246 457 1193 410 1159 410 1102 410 1050 454 1013 510 966 726 915 942 864 1046 809 1149 755 1208 660 1266 566 1266 427 1266 301 1196 191 1126 81 998 27 870 -26 679 -26 401 -26 252 102 103 231 74 477 Z"/>
+
+<glyph unicode="c" horiz-adv-x="1139" d="
+M 1073 748
+L 796 698
+Q 782 781 733 823 683 865 604 865 499 865 437 792 374 720 374 550 374 361 438 283 501 205 608 205 688 205 739 250 790 296 811 407
+L 1087 360
+Q 1044 170 922 73 800 -24 595 -24 362 -24 224 123 85 270 85 530 85 793 224 939 363 1086 600 1086 794 1086 909 1002 1023 919 1073 748 Z"/>
+
+<glyph unicode="h" horiz-adv-x="1251" d="
+M 427 1466
+L 427 927
+Q 563 1086 752 1086 849 1086 927 1050 1005 1014 1045 958 1084 902 1099 834 1113 766 1113 623
+L 1113 0 832 0 832 561
+Q 832 728 816 773 800 818 760 844 719 871 658 871 588 871 533 837 478 803 453 734 427 666 427 532
+L 427 0 146 0 146 1466 427 1466 Z"/>
+
+<glyph unicode="e" horiz-adv-x="1139" d="
+M 762 338
+L 1042 291
+Q 988 137 872 56 755 -24 580 -24 303 -24 170 157 65 302 65 523 65 787 203 936 341 1086 552 1086 789 1086 926 929 1063 773 1057 450
+L 353 450
+Q 356 325 421 255 486 186 583 186 649 186 694 222 739 258 762 338 Z
+M 778 622
+Q 775 744 715 807 655 871 569 871 477 871 417 804 357 737 358 622
+L 778 622 Z"/>
+
+<glyph unicode="d" horiz-adv-x="1251" d="
+M 1121 0
+L 860 0 860 156
+Q 795 65 707 20 618 -24 528 -24 345 -24 215 123 84 271 84 535 84 805 211 945 338 1086 532 1086 710 1086 840 938
+L 840 1466 1121 1466 1121 0 Z
+M 371 554
+Q 371 384 418 308 486 198 608 198 705 198 773 280 841 363 841 527 841 710 775 790 709 871 606 871 506 871 439 791 371 712 371 554 Z"/>
+
+<glyph unicode="u" horiz-adv-x="1251" d="
+M 846 0
+L 846 159
+Q 788 74 694 25 599 -24 494 -24 387 -24 302 23 217 70 179 155 141 240 141 390
+L 141 1062 422 1062 422 574
+Q 422 350 438 299 453 249 494 219 535 190 598 190 670 190 727 229 784 269 805 327 826 386 826 614
+L 826 1062 1107 1062 1107 0 846 0 Z"/>
+
+<glyph unicode="l" horiz-adv-x="569" d="
+M 147 0
+L 147 1466 428 1466 428 0 147 0 Z"/>
+</font>
+</defs>
+
+<g id="Layer_1">
+<g id="Layer_7" transform="matrix( 0.899993896484375, 0, 0, 0.899993896484375, 69.05,17.55) ">
+<g>
+<g>
+<g>
+<path fill="#CAA800" stroke="none" d="
+M 76.75 -19.5
+L -76.7 -19.5 -76.7 19.5 76.75 19.5 76.75 -19.5 Z"/>
+</g>
+</g>
+</g>
+</g>
+
+<g id="Layer_4" transform="matrix( 0.899993896484375, 0, 0, 0.899993896484375, 69.05,17.55) "/>
+
+<g id="Layer_5" transform="matrix( 0.899993896484375, 0, 0, 0.899993896484375, 69.05,17.55) ">
+<g transform="matrix( 1, 0, 0, 1, -60.8,-13.95) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-14.95" y="-2" width="151.45" height="31.95" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="-2.4" y="22.65" baseline-shift="0%" kerning="auto" font-family="Arial_Bold" font-weight="bold" font-size="25" fill="#FFFFFF" xml:space="preserve">Scheduled</tspan></text>
+</g>
+</g>
+
+<g id="Layer_2" transform="matrix( 0.899993896484375, 0, 0, 0.899993896484375, 69.05,17.55) "/>
+</g>
+</svg>
