@@ -1,0 +1,110 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="78px" height="17px" viewBox="0 0 78 17">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="-237" y1="-66.6" x2="-237" y2="-52.199999999999996" spreadMethod="pad">
+<stop  offset="0%" stop-color="#FFE465"/>
+
+<stop  offset="100%" stop-color="#E0BA00"/>
+</linearGradient>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Arial Bold
+Vendor ID: TMC 
+© 2017 The Monotype Corporation. All Rights Reserved. 
+
+Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; see embedded license description for details.
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=TMC&Name=Arial&PSName=Arial-BoldMT&applanguage=en_US-->
+<font-face font-family="Arial_Bold" units-per-em="2048" ascent="1854" descent="434"/>
+
+<glyph unicode="A" horiz-adv-x="1479" d="
+M 1471 0
+L 1149 0 1021 333 435 333 314 0 0 0 571 1466 884 1466 1471 0 Z
+M 926 580
+L 724 1124 526 580 926 580 Z"/>
+
+<glyph unicode="n" horiz-adv-x="1251" d="
+M 1113 0
+L 832 0 832 542
+Q 832 714 814 764 796 815 756 843 715 871 658 871 585 871 527 831 469 791 448 725 426 659 426 481
+L 426 0 145 0 145 1062 406 1062 406 906
+Q 545 1086 756 1086 849 1086 926 1052 1003 1019 1043 967 1082 915 1098 849 1113 783 1113 660
+L 1113 0 Z"/>
+
+<glyph unicode="i" horiz-adv-x="569" d="
+M 147 0
+L 147 1062 428 1062 428 0 147 0 Z
+M 147 1206
+L 147 1466 428 1466 428 1206 147 1206 Z"/>
+
+<glyph unicode="m" horiz-adv-x="1821" d="
+M 126 1062
+L 385 1062 385 917
+Q 524 1086 716 1086 818 1086 893 1044 968 1002 1016 917 1086 1002 1167 1044 1248 1086 1340 1086 1457 1086 1538 1038 1619 991 1659 899 1688 831 1688 679
+L 1688 0 1407 0 1407 607
+Q 1407 765 1378 811 1339 871 1258 871 1199 871 1147 835 1095 799 1072 729 1049 660 1049 510
+L 1049 0 768 0 768 582
+Q 768 737 753 782 738 827 707 849 675 871 621 871 556 871 504 836 452 801 430 735 407 669 407 516
+L 407 0 126 0 126 1062 Z"/>
+
+<glyph unicode="a" horiz-adv-x="1139" d="
+M 357 738
+L 102 784
+Q 145 938 250 1012 355 1086 562 1086 750 1086 842 1041 934 997 972 928 1009 860 1009 677
+L 1006 349
+Q 1006 209 1020 142 1033 76 1070 0
+L 792 0
+Q 781 28 765 83 758 108 755 116 683 46 601 11 519 -24 426 -24 262 -24 168 65 73 154 73 290 73 380 116 450 159 521 237 558 314 596 460 624 657 661 733 693
+L 733 721
+Q 733 802 693 836 653 871 542 871 467 871 425 841 383 812 357 738 Z
+M 733 510
+Q 679 492 562 467 445 442 409 418 354 379 354 319 354 260 398 217 442 174 510 174 586 174 655 224 706 262 722 317 733 353 733 454
+L 733 510 Z"/>
+
+<glyph unicode="t" horiz-adv-x="682" d="
+M 634 1062
+L 634 838 442 838 442 410
+Q 442 280 448 258 453 237 473 223 492 209 520 209 559 209 633 236
+L 657 18
+Q 559 -24 435 -24 359 -24 298 1 237 27 209 67 180 108 169 177 160 226 160 375
+L 160 838 31 838 31 1062 160 1062 160 1273 442 1437 442 1062 634 1062 Z"/>
+
+<glyph unicode="o" horiz-adv-x="1251" d="
+M 370 531
+Q 370 373 445 289 520 205 630 205 740 205 815 289 889 373 889 533 889 689 815 773 740 857 630 857 520 857 445 773 370 689 370 531 Z
+M 82 546
+Q 82 686 151 817 220 948 347 1017 473 1086 629 1086 870 1086 1024 929 1178 773 1178 534 1178 293 1023 134 867 -24 631 -24 485 -24 353 42 220 108 151 235 82 363 82 546 Z"/>
+
+<glyph unicode="r" horiz-adv-x="797" d="
+M 416 0
+L 135 0 135 1062 396 1062 396 911
+Q 463 1018 517 1052 570 1086 638 1086 734 1086 823 1033
+L 736 788
+Q 665 834 604 834 545 834 504 801 463 769 440 684 416 599 416 328
+L 416 0 Z"/>
+</font>
+</defs>
+
+<g id="Layer_1"/>
+
+<g id="Layer_2"/>
+
+<g id="Layer_5">
+<g transform="matrix( 1.3349761962890625, 0, 0, 1.04998779296875, 355.45,71.75) ">
+<g>
+<g>
+<path fill="url(#Gradient_1)" stroke="none" d="
+M -266.25 -68.35
+L -266.25 -52.1 -207.75 -52.1 -207.75 -68.35 -266.25 -68.35 Z"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 0.333343505859375, 0, 0, 0.302642822265625, 5.1,0.9) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="208.3" height="54.3" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="3.35" y="40.75" baseline-shift="0%" kerning="auto" font-family="Arial_Bold" font-weight="bold" font-size="45" fill="#FFFFFF" xml:space="preserve">Animator</tspan></text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,79 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="67px" height="17px" viewBox="0 0 67 17">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="-237" y1="-66.6" x2="-237" y2="-52.199999999999996" spreadMethod="pad">
+<stop  offset="0%" stop-color="#FFE465"/>
+
+<stop  offset="100%" stop-color="#E0BA00"/>
+</linearGradient>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Arial Bold
+Vendor ID: TMC 
+© 2017 The Monotype Corporation. All Rights Reserved. 
+
+Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; see embedded license description for details.
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=TMC&Name=Arial&PSName=Arial-BoldMT&applanguage=en_US-->
+<font-face font-family="Arial_Bold" units-per-em="2048" ascent="1854" descent="434"/>
+
+<glyph unicode="A" horiz-adv-x="1479" d="
+M 1471 0
+L 1149 0 1021 333 435 333 314 0 0 0 571 1466 884 1466 1471 0 Z
+M 926 580
+L 724 1124 526 580 926 580 Z"/>
+
+<glyph unicode="r" horiz-adv-x="797" d="
+M 416 0
+L 135 0 135 1062 396 1062 396 911
+Q 463 1018 517 1052 570 1086 638 1086 734 1086 823 1033
+L 736 788
+Q 665 834 604 834 545 834 504 801 463 769 440 684 416 599 416 328
+L 416 0 Z"/>
+
+<glyph unicode="t" horiz-adv-x="682" d="
+M 634 1062
+L 634 838 442 838 442 410
+Q 442 280 448 258 453 237 473 223 492 209 520 209 559 209 633 236
+L 657 18
+Q 559 -24 435 -24 359 -24 298 1 237 27 209 67 180 108 169 177 160 226 160 375
+L 160 838 31 838 31 1062 160 1062 160 1273 442 1437 442 1062 634 1062 Z"/>
+
+<glyph unicode="i" horiz-adv-x="569" d="
+M 147 0
+L 147 1062 428 1062 428 0 147 0 Z
+M 147 1206
+L 147 1466 428 1466 428 1206 147 1206 Z"/>
+
+<glyph unicode="s" horiz-adv-x="1139" d="
+M 48 303
+L 330 346
+Q 348 264 403 221 458 179 557 179 666 179 721 219 758 247 758 294 758 326 738 347 717 367 644 384 304 459 213 521 87 607 87 760 87 898 196 992 305 1086 534 1086 752 1086 858 1015 964 944 1004 805
+L 739 756
+Q 722 818 675 851 627 884 539 884 428 884 380 853 348 831 348 796 348 766 376 745 414 717 639 666 863 615 952 541 1040 466 1040 332 1040 186 918 81 796 -24 557 -24 340 -24 214 64 87 152 48 303 Z"/>
+</font>
+</defs>
+
+<g id="Layer_1"/>
+
+<g id="Layer_2"/>
+
+<g id="Layer_5">
+<g transform="matrix( 1.1602935791015625, 0, 0, 1.04998779296875, 308.95,71.75) ">
+<g>
+<g>
+<path fill="url(#Gradient_1)" stroke="none" d="
+M -266.25 -68.35
+L -266.25 -52.1 -207.75 -52.1 -207.75 -68.35 -266.25 -68.35 Z"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 0.333343505859375, 0, 0, 0.302642822265625, 6.25,0.9) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="170.35" height="54.3" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="24.4" y="40.75" baseline-shift="0%" kerning="auto" font-family="Arial_Bold" font-weight="bold" font-size="45" fill="#FFFFFF" xml:space="preserve">Artist</tspan></text>
+</g>
+</g>
+</svg>
