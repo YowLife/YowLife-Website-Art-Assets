@@ -1,0 +1,40 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="340px" height="302px" viewBox="0 0 340 302">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="63.95" y1="-135.25" x2="63.95" y2="135.25" spreadMethod="pad">
+<stop  offset="0%" stop-color="#1FD6FC"/>
+
+<stop  offset="100%" stop-color="#0261E6"/>
+</linearGradient>
+</defs>
+
+<g id="Layer_1">
+<g transform="matrix( 1, 0, 0, 1, 128.3,162.75) ">
+<g>
+<g>
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 210.65 -161.25
+L 183.85 -142.45 -107.45 -142.45
+Q -115.4 -142.45 -121.1 -137.25 -126.8 -132.05 -126.8 -124.7
+L -126.8 120
+Q -126.8 127.4 -121.1 132.55 -115.4 137.75 -107.45 137.75
+L 191.3 137.75
+Q 199.3 137.75 204.95 132.55 210.65 127.4 210.65 120
+L 210.65 -161.25 Z"/>
+</g>
+</g>
+
+<g>
+<path stroke="#0E35A1" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 210.65 -161.25
+L 210.65 120
+Q 210.65 127.4 204.95 132.55 199.3 137.75 191.3 137.75
+L -107.45 137.75
+Q -115.4 137.75 -121.1 132.55 -126.8 127.4 -126.8 120
+L -126.8 -124.7
+Q -126.8 -132.05 -121.1 -137.25 -115.4 -142.45 -107.45 -142.45
+L 183.85 -142.45 210.65 -161.25 Z"/>
+</g>
+</g>
+</g>
+</svg>

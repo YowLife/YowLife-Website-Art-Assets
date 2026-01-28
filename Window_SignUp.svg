@@ -1,0 +1,40 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="436px" height="569px" viewBox="0 0 436 569">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="-12.5" y1="-133.25000000000003" x2="-12.5" y2="407.45000000000005" spreadMethod="pad">
+<stop  offset="0%" stop-color="#1FD6FC"/>
+
+<stop  offset="100%" stop-color="#0261E6"/>
+</linearGradient>
+</defs>
+
+<g id="Layer_1">
+<g transform="matrix( 1, 0, 0, 1, 224.75,162.75) ">
+<g>
+<g>
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 210.7 -161.25
+L 183.9 -142.45 -203.9 -142.45
+Q -211.85 -142.45 -217.55 -137.25 -223.25 -132.05 -223.25 -124.7
+L -223.25 387.5
+Q -223.25 394.9 -217.55 400.05 -211.85 405.25 -203.9 405.25
+L 191.35 405.25
+Q 199.35 405.25 205 400.05 210.7 394.9 210.7 387.5
+L 210.7 -161.25 Z"/>
+</g>
+</g>
+
+<g>
+<path stroke="#0E35A1" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 210.7 -161.25
+L 210.7 387.5
+Q 210.7 394.9 205 400.05 199.35 405.25 191.35 405.25
+L -203.9 405.25
+Q -211.85 405.25 -217.55 400.05 -223.25 394.9 -223.25 387.5
+L -223.25 -124.7
+Q -223.25 -132.05 -217.55 -137.25 -211.85 -142.45 -203.9 -142.45
+L 183.9 -142.45 210.7 -161.25 Z"/>
+</g>
+</g>
+</g>
+</svg>
