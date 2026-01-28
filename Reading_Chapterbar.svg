@@ -1,0 +1,30 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="124px" height="26px" viewBox="0 0 124 26">
+<defs/>
+
+<g id="Layer_1">
+<g>
+<g>
+<g>
+<path fill="#FFFFFF" stroke="none" d="
+M 124 0.15
+Q 123.85 0 123.7 0
+L 0.45 0
+Q 0.3 0 0.15 0.15 0 0.3 0 0.45
+L 0 25.75
+Q 0 25.9 0.15 26.05 0.3 26.15 0.45 26.15
+L 123.7 26.15
+Q 123.85 26.15 124 26.05 124.1 25.9 124.1 25.75
+L 124.1 0.45
+Q 124.1 0.3 124 0.15
+M 123.25 0.9
+L 123.25 25.3 0.9 25.3 0.9 0.9 123.25 0.9 Z"/>
+
+<path fill="#0E35A1" stroke="none" d="
+M 123.25 25.3
+L 123.25 0.9 0.9 0.9 0.9 25.3 123.25 25.3 Z"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
